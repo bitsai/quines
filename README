@@ -1,0 +1,3 @@
+quine.rb, when run, outputs itself.
+
+quine.c and quine.pl form a pair; quine.c prints quine.pl, and vice-versa.
