@@ -1,3 +1,0 @@
-When run, quine.clj, quine.cpp and quine.rb output themselves.
-
-quine.c and quine.pl form a pair; when run, quine.c outputs quine.pl, and vice-versa.
